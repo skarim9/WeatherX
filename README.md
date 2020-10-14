@@ -10,9 +10,19 @@ try running the following command.
 
 ```sh
 $ npm -v && node -v
-"some version"
-"some version"
+6.14.8 ("or some version")
+v12.18.4 ("or some version")
 ```
 
+## Usage
+
+Run this command to open the server:
+
+```sh
+$ node app.js
+Server is running on Port 3000
+'''
+
+After the server is running message is shown, go to [http://localhost:3000](http://localhost:3000/) and you can use the app.
 
 
