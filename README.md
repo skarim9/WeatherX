@@ -4,7 +4,7 @@ A Weather web app that uses the OpenWeatherMap API and NodeJS to get a city's cu
 
 ## Requirements
 
-NodeJS (version 8 or later) and NPM from [Node](http://nodejs.org/) and [NPM](https://npmjs.org/)
+NodeJS (version 8 or later) and NPM from [Node](http://nodejs.org/) and [NPM](https://npmjs.org/).
 To make sure you have them available on your machine,
 try running the following command.
 
