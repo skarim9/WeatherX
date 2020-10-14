@@ -26,7 +26,7 @@ app.post("/", function(req, res) {
     if (imperial_countries.indexOf(nation) === -1) {
       unit = "metric";
     }
-    const apiKey = "1d14461d7e7fe98213a4494bb0f13774";
+    const apiKey = "";  // Add your API key from OpenWeatherMap
     const url = "https://api.openweathermap.org/data/2.5/weather?q=" + query + "&units=" + unit + "&appid=" + apiKey;
     https.get(url, function(response) {
       console.log(response.statusCode);
