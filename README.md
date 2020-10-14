@@ -21,7 +21,7 @@ Run this command to open the server:
 ```sh
 $ node app.js
 Server is running on Port 3000
-'''
+```
 
 After the server is running message is shown, go to [http://localhost:3000](http://localhost:3000/) and you can use the app.
 
